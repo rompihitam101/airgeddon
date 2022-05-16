@@ -9,8 +9,7 @@
 ![Banner]
 
 ---
-
-Semua info yang diperlukan tentang cara "menginstal | menggunakan | menikmati" `airgeddon` ada di [Wiki Github].
+All the needed info about how to "install | use | enjoy" `airgeddon` is present at [Github's Wiki]
 
 - *I. Content & Features*
   - [Home]
